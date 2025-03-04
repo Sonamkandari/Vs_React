@@ -1,0 +1,7 @@
+what is the need of the Prop.?
+
+why wwe are using Prop
+
+
+always take reference of document for tailwind css
+
