@@ -24,13 +24,9 @@ async function dbConnect() :Promise<void>{
      
    }catch(error){
     console.log("dataBAse connection fail",error);
-    
-
     process.exit(1);
 
    }
  
-
 }
-
 export default dbConnect
