@@ -8,14 +8,6 @@ const App=()=>{
     return <div>
         <Navigation/>
         <DogsSection/>
-        {/* <Navigation/>
-        <Navigation/>
-        <Navigation/>
-        <Navigation/>
-        <Navigation/>
-        <Navigation/>
-        <Navigation/>   one of a way to increase the reusability */} 
-
         
     </div>
 };

@@ -18,7 +18,7 @@ const DogsSection = () => {
       </div>
       
       <div className="Dogs-Images">
-        <img src="/images/dog3.jpeg" alt="Dog" />
+        <img src="/images/dog4.png" alt="Dog" />
       </div>
       
       <div className="purchasing">
