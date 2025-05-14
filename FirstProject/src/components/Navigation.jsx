@@ -14,4 +14,4 @@ const Navigation=()=>{
 </button>
 </nav>
 }
-export default Navigation;
+export default Navigation;// exporting navigation because we want to export this navigation file somewhere else also
